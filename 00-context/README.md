@@ -97,7 +97,7 @@ revisión y feedback de herramientas y con la simulación.**
 
 |                    Actividades                      |   Tipo   | Semana   |    Día/hora    |
 |-----------------------------------------------------|----------|----------|---------------:|
-| Sesión de Q&A sobre el programa.                    |   Fija   |    12    |semana del 03/08|
+| Sesión de Q&A sobre el programa.                    | Abierta  |    12    |semana del 03/08|
 | Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |    14    |      18/08     |
 | Sesión de revisión y feedback de LinkedIn.          | Abierta  |    15    |semana del 22/08|
 | Simulación de entrevista de recursos humanos.       | Abierta  |  17 y 18 | del 05 al 15/09|
