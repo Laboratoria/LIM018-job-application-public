@@ -44,7 +44,7 @@ Durante ambas sesiones te recomendamos:
 * Es muy importante que te enfoques en los **_porqué_**, más que en los **_cómo_**. 
 * No olvides que será un proceso de iteración constante por lo que aún cuándo hayan terminado las sesiones, ellas seguirán mejorándolas.
 
-**Además enlistamos para ti elementos que te sugerimos tener en cuenta porque se incluirán en este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdmFDN6kXPrlzrSoACZ0plnYRFFj-z-7-elSKdgY-M_tGy6kg/viewform) que llenarás después de las dos sesiones de revisión.**
+**Además enlistamos para ti elementos que te sugerimos tener en cuenta porque se incluirán en este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf0ODICZmeIjmawaLGENSf8A91GpSEE6njQEDBaKRyp_UozZg/viewform?usp=sf_link) que llenarás después de las dos sesiones de revisión.**
 
 * **Estructura**
      * La redacción es clara y concisa
