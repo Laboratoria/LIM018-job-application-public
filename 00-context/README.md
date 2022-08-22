@@ -123,12 +123,12 @@ podrás consultar los objetivos alcanzar con la
 simulación y revisión y feedback de su Github profile. Para este apartado
 todavía estamos terminando de definir algunos detalles.
 
-|                 Actividades                  |   Tipo   | Semana   |     Día/hora     |
-|----------------------------------------------|----------|----------|-----------------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |    19    |       29/09      |
-| Simulación de entrevista técnica.            | Abierta  |    20    |del 26/09 al 7/10 |
-| Envío de feedback escrito a estudiante.      | Abierta  |    20    |del 26/09 al 7/10 |
-| Envío de formulario de feedback al equipo.   | Abierta  |          |                  |
+|                 Actividades                  |   Tipo   | Semana   |     Día/hora         |
+|----------------------------------------------|----------|----------|---------------------:|
+| Sesión de Q&A sobre el programa.             |   Fija   |    19    |29/09 - 6:00 a 7:00pm |
+| Simulación de entrevista técnica.            | Abierta  |    20    |  del 26/09 al 7/10   |
+| Envío de feedback escrito a estudiante.      |   Fija   |    21    |  del 26/09 al 10/10  |
+| Envío de formulario de feedback al equipo.   |   Fija   |    21    |        10/10         |
 
 ## Consideraciones generales
 
