@@ -125,7 +125,7 @@ todavía estamos terminando de definir algunos detalles.
 
 |                 Actividades                  |   Tipo   | Semana   |     Día/hora         |
 |----------------------------------------------|----------|----------|---------------------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |    20    |27/09 - 6:00 a 7:00pm |
+| Sesión de Q&A sobre el programa.             |   Fija   |    20    |28/09 - 6:00 a 7:00pm |
 | Simulación de entrevista técnica.            | Abierta  | 20 y 21  |  del 28/09 al 7/10   |
 | Envío de feedback escrito a estudiante.      |   Fija   |    21    |  del 03/10 al 10/10  |
 | Envío de formulario de feedback al equipo.   | Abierta  |    22    |   Semana del 10/10   |
